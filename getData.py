@@ -61,7 +61,7 @@ def write07Excel(index, data):
     print("写入数据成功！")
 
 # 判断将要写入的数据与表格内的数据的code是否一致
-def isEqual():
+def isEqual(): 
     pass
 
 # 爬取数据
